@@ -110,3 +110,7 @@ The REST API and Web UI currently have no Authentication or Authorization. It ma
 * [Dustin Stringer](https://www.linkedin.com/in/dustin-stringer-4a666480/) - Parser Developer (Node.js) 
 * [Roemello McCoy](https://www.linkedin.com/in/roemello-mccoy-9a183110b/) - Parser Developer (Python)
 * [Paul Wheeler](https://www.linkedin.com/in/paulwh/) - Software Architect / DevOps Engineer
+
+## Thanks
+
+ * [Mike Lanciano](https://www.linkedin.com/in/mikelanciano/) - For pitching in with containerization efforts while also working on his own project.
