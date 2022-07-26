@@ -10,7 +10,7 @@ Not wanting to lose sight of the core requirement of _rapidly_ making additional
 
 # Our Team
 
-Our team was comprised of a diverse selection of U.S. Space Force personnel in a wide range of roles, and one private contractor. The software development experience level on our team varied widely from a number of members who had completed [Supra Coder](https://supracoders.us/) programs, to a Ph.D. data analyst, and an software developer with 15+ years of experience.
+Our team was comprised of a diverse selection of U.S. Space Force personnel in a wide range of roles, and one private contractor. The software development experience level on our team varied widely from a number of members who had completed [Supra Coder](https://supracoders.us/) programs, to a Ph.D. data analyst, and an industry software developer with 15+ years of experience.
 
 The biggest highlights of our team dynamic were:
 
